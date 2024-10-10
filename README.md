@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+Thanathon Satthayaphan 1650900572 338A (เช้า)
+>>>>>>> 25966b01d7bbae16b4a3cf88d620f1847cc84688
