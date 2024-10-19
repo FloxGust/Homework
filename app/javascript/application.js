@@ -6,3 +6,6 @@ import "controllers"
 //= require_tree .
 import Rails from '@rails/ujs';
 Rails.start();
+//= require rails-ujs
+//= require jquery // If you want to use jQuery
+//= require_tree .
